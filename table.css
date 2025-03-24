@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(124, 218, 213);
+    text-align: center;
+}
+.p{
+    text-align:left;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: rgb(102, 203, 221);
+}
+.li{
+    list-style-type: none;
+    text-align: left;
+    margin-left: 50px;
+}
+a{
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ font-size: larger;
+    
+}
+a:hover{
+    color:red;
+}
+
