@@ -1,0 +1,51 @@
+
+#head{
+    display:flex;
+    background-color: black;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.img1{
+    border: 20px;
+     border-radius: 300px; 
+     float: left;
+     margin: 20px;
+       }
+   #hfirst{
+    color:aliceblue;
+    margin-top: 30px;
+   } 
+   .nav{
+    color: aliceblue;
+    margin-top: 60px;
+    
+   }   
+   .input{
+    align-self:self-start;
+    margin-top: 60px;
+    border-radius: 5px;
+    height:20px;
+    margin: 60px 30px 20px;
+   }
+   .bb{
+    display: flex;
+    padding-top:10px;
+   }
+   .i2{
+    border: 1px solid black;
+    justify-self: center;
+    width: 100%;
+    height: auto;
+   }
+   a{
+    color: aliceblue;
+    text-decoration: none;
+   }
+.i1{
+    width: 100%;
+    height: auto;
+    margin-right: 5px;
+}
